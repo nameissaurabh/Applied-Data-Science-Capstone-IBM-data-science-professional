@@ -8,6 +8,4 @@ IBM data science professional final Project
 3)compiling all activities into one place and deliver your data-driven insights to determine if the first stage of Falcon 9 will land successfully.  
 
 
-
-
-   all rights are reserved to @saurbhghadge
+*all rights are reserved to @saurbhghadge
